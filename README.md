@@ -8,7 +8,7 @@ Introducing `PUCustomActionSheet`: the ultimate customizable alternative to Appl
 
 ## Installation
 
-Download the sample code and add only one file named `PUCustomActionSheet.swift` in your project and start using shown as in demo.
+Download the sample code, add the file `PUCustomActionSheet.swift` to your project, and instantly experience the power of PUCustomActionSheet. Follow the simple demo instructions to start using it right away.
 
 ## License
 
